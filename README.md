@@ -1,1 +1,1 @@
-Creating a new branch for dev1 is quick and simple.
+Creating a new branch for bug001 is quick and simple.
